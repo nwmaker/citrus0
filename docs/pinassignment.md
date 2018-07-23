@@ -1,6 +1,6 @@
 # GPIO pin assignment
 
-Seconds are showed in the center.
+Second is showed in the center.
 
 | Pin | Location | Notes |
 | ------ |:------ | ------ |
