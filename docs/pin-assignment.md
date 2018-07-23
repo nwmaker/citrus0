@@ -42,4 +42,5 @@ Here are pins not used.
 | PA09 | not in use | outer |
 | PA10 | not in use | outer |
 | PA11 | not in use | outer |
+| PA24 | not in use | inner |
 
