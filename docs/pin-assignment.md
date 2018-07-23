@@ -24,7 +24,7 @@ Hours are displayed in location. Minutes has their own binary values.
 | LED17 | PA28 | Minute 32 | inner circle |
 | LED18 | PA25 | center (second) | center |
 
-Here are pins not used. Some are going used to change/set time via UART port.
+Here are pins not used. Some are used to change/set time via UART port (TBD).
 
 | Pin | Location | Notes |
 | ------ |:------ | ------ |
