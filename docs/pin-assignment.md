@@ -1,23 +1,6 @@
 # GPIO pin assignment
 
-Second is showed in the center.
-
-| LED | Pin | Location | Notes |
-| ------ | ------ |:------ | ------ |
-| LED18 | PA25 | center | center |
-
-Minutes are displayed in binary.
-
-| LED | Pin | Location | Notes |
-| ------ | ------ |:------ | ------ |
-| LED12 | PA00 | Minute 1 | inner circle |
-| LED13 | PA04 | Minute 2 | inner circle |
-| LED14 | PA07 | Minute 4 | inner circle |
-| LED15 | PA16 | Minute 8 | inner circle |
-| LED16 | PA22 | Minute 16 | inner circle |
-| LED17 | PA28 | Minute 32 | inner circle |
-
-Hours are displayed in location.
+Hours are displayed in location. Minutes has their own binary values.
 
 | LED | Pin | Location | Notes |
 | ------ | ------ |:------ | ------ |
@@ -33,8 +16,15 @@ Hours are displayed in location.
 | LED9 | PA18 | Hour 10 | outer circle |
 | LED10 | PA19 | Hour 11 | outer circle |
 | LED11 | PA23 | Hour 12 | outer circle |
+| LED12 | PA00 | Minute 1 | inner circle |
+| LED13 | PA04 | Minute 2 | inner circle |
+| LED14 | PA07 | Minute 4 | inner circle |
+| LED15 | PA16 | Minute 8 | inner circle |
+| LED16 | PA22 | Minute 16 | inner circle |
+| LED17 | PA28 | Minute 32 | inner circle |
+| LED18 | PA25 | center (second) | center |
 
-Here are pins not used.
+Here are pins not used. Some are going used to change/set time via UART port.
 
 | Pin | Location | Notes |
 | ------ |:------ | ------ |
