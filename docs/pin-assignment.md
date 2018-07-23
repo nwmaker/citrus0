@@ -35,6 +35,7 @@ Hours are displayed in location.
 | PA23 | Hour 12 | outer circle |
 
 Here are pins not used.
+
 | Pin | Location | Notes |
 | ------ |:------ | ------ |
 | PA08 | not in use | outer |
@@ -42,4 +43,3 @@ Here are pins not used.
 | PA10 | not in use | outer |
 | PA11 | not in use | outer |
 
-Minutes are displayed in binary.
